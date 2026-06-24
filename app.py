@@ -23,7 +23,7 @@ st.markdown("""
         font-weight: bold;
     }
     </style>
-""", unsafe_allowed_html=True)
+""", unsafe_allow_html=True)
 
 st.title("🏦 RiskRadar™ — Loan Approval Predictor")
 st.caption("Because relying on a human credit officer's mood is so last century. Let the algorithm decide.")
